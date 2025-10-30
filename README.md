@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShabanaShaik1987
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...MERN Tech Stack
+- 🌱 I’m currently exploring ...MERN Tech Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@shabana.bitsgc@gmail.com
 - 😄 Pronouns: She/her
